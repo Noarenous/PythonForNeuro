@@ -17,5 +17,5 @@ def trifeca(word):
 
 
 
-res = trifeca("jhiaabbcc")
+res = trifeca("jhiaabbccde")
 print(res)
